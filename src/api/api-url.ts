@@ -1,3 +1,4 @@
 export const api_url = {
-  "task.index": "/task",
+  "auth.login": "/login",
+  "task.index": "/api/task",
 };
