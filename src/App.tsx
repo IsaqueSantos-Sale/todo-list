@@ -1,9 +1,7 @@
-import TasksPage from "./Pages/TasksPage";
-
 export default function App() {
   return (
     <>
-      <TasksPage />
+      <h1>Hello World</h1>
     </>
   );
 }
